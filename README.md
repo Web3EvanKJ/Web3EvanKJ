@@ -2,7 +2,9 @@
 
 **Blockchain Developer | Full-Stack Engineer | Open Source Enthusiast**
 
-I build decentralized applications, explore new tech stacks, and contribute to open source.
+Hello Im Evan, a software engineer passionate about creating impactful, user-focused applications. I enjoy solving problems through clean code, thoughtful design, and continuous learning.
+
+Passionate about DeFi, DAO governance, and L2 ecosystems
 
 ### 🧰 Tech Stack
 - **Languages:** TypeScript, JavaScript, Solidity  
