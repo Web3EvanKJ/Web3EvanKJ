@@ -14,7 +14,6 @@ I build decentralized applications, explore new tech stacks, and contribute to o
 - [Nave Bank](https://github.com/Web3EvanKJ/company-profile-nave-bank): Short description here
 
 ### 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Web3EvanKJ&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Web3EvanKJ&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
