@@ -13,7 +13,6 @@ Passionate about DeFi, DAO governance, and L2 ecosystems
 
 ### 🌟 Featured Projects
 - [Jagantara](https://github.com/Jagantara): A decentralized insurance platform (3rd Place in Lisk Builder Challenge)
-- [Nave Bank](https://github.com/Web3EvanKJ/company-profile-nave-bank): Short description here
 
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Web3EvanKJ&layout=compact&theme=radical)
